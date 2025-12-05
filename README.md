@@ -31,6 +31,11 @@ pip install pandas numpy graphviz
 
 ### Reproducing the examples from the paper
 
+<div align="center">
+  <img src="./figures/FDR_examples.png" alt="figure1" width="700">
+</div>
+
+<p align="center"><strong>Figure 2 in the paper: ADMGs that satisfy FDR criterion.</p>
 
 
 From the repository root:
