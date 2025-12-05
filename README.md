@@ -3,7 +3,7 @@ This is an anomynised code repo for CLEAR2026 submission #5, entitled: Front-doo
 
 It provides:
 
-- An implementation of the FDR triple identification algorithm `triple_id`, which finds valid front-door-reducible triples \((X^*, Y^*, M_S)\) in an ADMG.
+- An implementation of the FDR triple identification algorithm `triple_id`, which finds valid front-door-reducible triples $( \\mathbf{X}^{\\ast}, \\mathbf{Y}^{\\ast}, \\mathbf{M}^{\\ast} )$ in an ADMG.
 - Example scripts that reproduce the FDR and non-FDR graphs discussed in the paper and run the identification algorithm on them.
 
 ## Front-door Reducibility (FDR)
